@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Soy de La Tierra - El encuentro conmigo mismo',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
